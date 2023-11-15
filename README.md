@@ -2,6 +2,8 @@
 
 Example code for the book **Fluent Python, Second Edition** by Luciano Ramalho (O'Reilly, 2022).
 
+[中文版README](README-zh-cn.md)
+
 
 ## Table of Contents
 
